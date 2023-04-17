@@ -40,3 +40,11 @@ npm run dev
 * Faça o commit de suas alterações usando o comando git commit -m "minhas alterações"
 * Faça o push para a branch criada anteriormente usando o comando git push origin minha-branch
 * Crie um pull request para o repositório original.
+
+# Problemas e sugestões
+Se você encontrar algum problema ou tiver sugestões para melhorar este projeto, sinta-se à vontade para reportá-lo. Para isso, siga os passos abaixo:
+
+1. Abra uma issue neste repositório;
+2. Descreva o problema ou sugestão com o máximo de detalhes possível;
+3. Aguarde uma resposta da equipe de desenvolvimento.
+4. Sua ajuda é muito importante para a evolução deste projeto!
