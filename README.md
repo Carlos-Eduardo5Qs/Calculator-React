@@ -3,6 +3,9 @@
 
 Este é um projeto de calculadora simples desenvolvido em ReactJS. O objetivo deste projeto é demonstrar a implementação de uma aplicação básica em ReactJS visando como o React facilita a vida na hora de desenvolver, esta calculadora contém funções básicas que realiza operações matemáticas como adição, subtração, mutiplicação, divisão e potenciação.
 
+# Captura do projeto
+![demo](./public/assets/project.png) 
+
 # Tecnologias utilizadas
 
 * ReactJS
